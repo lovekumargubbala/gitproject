@@ -3,3 +3,6 @@ starting with git configuration
 basically are two type global and system
 global location configuration stored in the /etc/gitconfig
 system location configuration stored in the ~/.gitconfig
+#let consider
+#read -p 'enter the value' filename
+#read -p 'enter the value' filename
