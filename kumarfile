@@ -1,0 +1,5 @@
+# git concept
+starting with git configuration 
+basically are two type global and system
+global location configuration stored in the /etc/gitconfig
+system location configuration stored in the ~/.gitconfig
